@@ -81,12 +81,6 @@
 
 🐚 [Shell Scripting Projects](https://github.com/StewieGriffin17/Linux-Shell-Scripting-A-Project-Based-Approach-to-Learning) – Hands-on Linux **shell scripting projects**, covering loops, functions, user/file management, and automation using Bash.
 
----
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="300"/>
 </p>
-
-
-
-
-
