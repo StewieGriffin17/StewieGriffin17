@@ -12,6 +12,7 @@
 - 🧩 Lover of challenging **problem-solving** — the trickier, the better
 - 📫 How to reach me **anowarul.asif@gmail.com**
 - 🌐 Visit my: [Portfolio](https://anowarulasif.netlify.app/) | [LinkedIn](https://linkedin.com/in/anowarul-asif)
+- 🛡️ TryHackMe profile: [TryHackMe](https://tryhackme.com/p/StewieGriffin17)
 ---
 
 ### 🧰 Languages and Tools
