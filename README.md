@@ -5,7 +5,7 @@
   <img src="github.gif" alt="Hacker Mode Activated" />
 </p>
 
-- 🧠😈 Final semester CSE student and self-proclaimed **Immoral Genius**
+- 🧠😈 A CSE graduate and self-proclaimed **Immoral Genius**
 - 🔐 Passionate about **Ethical Hacking & Cybersecurity** — exploring the digital wilds responsibly
 - 💻 **MERN Full-Stack Developer** with several hands-on projects
 - 🐍 Skilled in **Python, C, Java, JavaScript, and Shell Scripting**
